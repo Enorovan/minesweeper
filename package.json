@@ -1,0 +1,11 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0"
+  "scripts": {
+    "start": "elm-app start"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "prettier-plugin-elm": "^0.7.0"
+  }
+}
